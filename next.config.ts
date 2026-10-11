@@ -1,7 +1,7 @@
 // next.config.ts
 import type { NextConfig } from "next";
 
-const basePath = "/";
+const basePath = "";
 
 const nextConfig: NextConfig = {
   output: "export",
